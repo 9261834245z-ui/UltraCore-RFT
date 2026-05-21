@@ -1,6 +1,5 @@
 UltraCore RFT
-Unified Deterministic Architecture for Solana Execution Systems
-<p align="center"> <img src="./assets/rft-overview.png" width="100%"> </p>
+Unified Deterministic Architecture for Solana Execution Systems<p align="center"> <img src="./rft-overview.png" width="100%"> </p>
 
 Overview
 UltraCore RFT is a deterministic execution and state-coherence framework designed for high-throughput distributed systems such as Solana.
