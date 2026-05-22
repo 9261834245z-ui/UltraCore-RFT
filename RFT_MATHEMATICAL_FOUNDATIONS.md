@@ -1,8 +1,9 @@
+
+# RFT Mathematical Foundations
+
 <p align="center">
   <img src="./rft-math-foundations.png" width="100%">
 </p>
-
-# RFT Mathematical Foundations
 
 ## 7 Millennium Operators Governing Deterministic Runtime Stability
 
