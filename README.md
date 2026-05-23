@@ -127,25 +127,25 @@ experimental simulations,
 hardware resources,
 validation environments,
 and independent systems development.
----
+
 
 # Contribution Addresses
 
 ## Solana (SOL)
 
-```text
+```
 9923eHhdL246uWURV4Sp7CSU8sSJb5ZvMGkXgbstgneA
 ```
 
 ## Bitcoin (BTC)
 
-```text
+```
 bc1quuc6s3la2rgfhux4anrg0f9v3dr34888yraesg
 ```
 
 ## Ethereum (ETH)
 
-```text
+```
 0xd816F421e3A6272712b1B8eFC1e88e45f8800B4f
 ```
 
